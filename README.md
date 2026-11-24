@@ -116,6 +116,4 @@ dragon.render(deltaTime, view, projection, cameraPos, lightDir, kSkyColor); // a
 dragon.cleanup();                            // antes de glfwTerminate()
 ```
 
-## Licença
 
-Defina a licença do projeto antes de publicar (por exemplo, MIT) e adicione o arquivo `LICENSE` na raiz do repositório.
